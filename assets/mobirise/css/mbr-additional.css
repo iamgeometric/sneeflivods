@@ -689,9 +689,9 @@ a {
   transition: color 0.6s;
 }
 .cid-snVopg1Jnl {
-  padding-top: 2rem;
+  padding-top: 3rem;
   padding-bottom: 0rem;
-  background-color: #ffffff;
+  background-color: #171717;
 }
 .cid-snVopg1Jnl .image-wrapper {
   width: 50px;
@@ -706,8 +706,17 @@ a {
   width: 100%;
   object-fit: cover;
 }
+.cid-snVopg1Jnl .mbr-text {
+  color: #ffffff;
+}
+.cid-snVopg1Jnl .name {
+  color: #ffffff;
+}
+.cid-snVopg1Jnl .position {
+  color: #bbbbbb;
+}
 .cid-snVaLAgjY4 {
-  padding-top: 90px;
+  padding-top: 0px;
   padding-bottom: 90px;
   background-color: #171717;
 }
